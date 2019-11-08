@@ -162,6 +162,14 @@ OpenIE 项目来获取原始文档中的关系信息，这些关系信息是包�
 
 第一次提出用s2s机制加上attetnion机制来实现文本生成式摘要。
 
+## Get To The Point: Summarization with Pointer-Generator Networks
+
+> point网络
+>
+> 抽取式和生成式结合
+>
+> 
+
 
 
 ## Neural Latent Extractive Document Summarization  
